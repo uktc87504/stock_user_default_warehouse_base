@@ -5,7 +5,7 @@
 
 {
     'name': 'Default Stock Warehouse on User',
-    'version': '10.0.1.0.0',
+    'version': '11.0.1.0.0',
     'category': 'Inventory, Logistics, Warehousing',
     'license': 'AGPL-3',
     'summary': 'Configure a default warehouse on user',
